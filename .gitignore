@@ -4,3 +4,8 @@
 .Ruserdata
 
 /.quarto/
+about.qmd
+*.qmd
+_quarto.yml
+sghpt_ebp.Rproj
+styles.css
